@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: Benjamin Decato
+title: Home
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -12,29 +12,28 @@ author: Ben Decato
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About me: "aboutme"
   Research Interests: "research"
-  Selected Publications: "publications"
-  #Blog Posts: "blogposts"
+  Publications: "publications"
+  Blog Posts: "blog"
   #  - Flake it til you make it: "2020-02-28-test-markdown.md"
-  Hobbies: "hobbies"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Quick links:
+    - My CV: "Papers/CV_BDecato_010121.pdf"
+    - Bild Lab: "https://bildlab.org"
+    - Smith Lab: "https://www.smithlabresearch.org/"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-#avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/avatar.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-#round-avatar: true
+round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 #title-img: /path/to/image
-
 
 # --- Footer options --- #
 
@@ -42,16 +41,15 @@ navbar-links:
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "mysixletterlastname@gmail.com"
+  email: "bdecato@gmail.com"
   linkedin: ben-decato
   github: bdecato
   google-scholar: citations?user=qIv4PVsAAAAJ&hl=en
   twitter: bedecato
   ORCID: 0000-0003-3092-1102
+  rss: true
   #  stackoverflow: "3943160/daattali"
   #  instagram: deanat78
-  rss: true
-
 
 # --- General options --- #
 
@@ -75,16 +73,38 @@ excerpt_length: 50
 # --- Colours / background image --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
-
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
+# Blue palette
+navbar-col: "#dbe2ef"
+navbar-text-col: "#112d4e"
 navbar-border-col: "#EAEAEA"
-page-col: "#FFFFFF"
-link-col: "#008AFF"
+page-col: "#f9f7f7"
+link-col: "#3f72af"
 hover-col: "#0085A1"
-footer-col: "#F5F5F5"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-col: "#dbe2ef"
+footer-text-col: "#112d4e"
+footer-link-col: "#3f72af"
+
+# Greenish desert palette
+#navbar-col: "#839b97"
+#navbar-text-col: "#34626c"
+#navbar-border-col: "#EAEAEA"
+#page-col: "#cfd3ce"
+#link-col: "#34626c"
+#hover-col: "#0085A1"
+#footer-col: "#839b97"
+#footer-text-col: "#34626c"
+#footer-link-col: "#34626c"
+
+# Original color scheme
+#navbar-col: "#F5F5F5"
+#navbar-text-col: "#404040"
+#navbar-border-col: "#EAEAEA"
+#page-col: "#FFFFFF"
+#link-col: "#008AFF"
+#hover-col: "#0085A1"
+#footer-col: "#F5F5F5"
+#footer-text-col: "#777777"
+#footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -164,6 +184,7 @@ timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
+paginate_path: "blog/page:num/"
 paginate: 5
 
 kramdown:
