@@ -1,12 +1,11 @@
 ---
 layout: page
 title: Publications
-#subtitle: Why you'd want to go on a date with me
 ---
 
 Luo Y, Wadhawan S, Greenfield A, **Decato BE**, Oseini A, Collen R, Shevell D, Thompson J, Jarai G, Charles ED, Sanyal AJ (2020)
 "SOMAscan proteomics identifies serum biomarkers associated with liver fibrosis in patients with nonalcoholic steatohepatitis: development and validation of a prediction model."
- *Hepatology Communications*, in press. [PubMed]
+ *Hepatology Communications*, in press. [PDF][Publisher Site]
 
 **Decato BE**, Qu J, Ji XJ, Wagenblast E, Knott SRV, Hannon GJ, and Smith AD (2020)
 "Characterization of universal features of partially methylated domains across tissues and species."

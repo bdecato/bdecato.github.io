@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Research
-#subtitle: Why you'd want to go on a date with me
 ---
 
 Broadly, I am interested in understanding how somatic mutation and epigenetic
