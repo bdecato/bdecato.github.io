@@ -6,7 +6,7 @@ subtitle: Senior Scientist, Translational Bioinformatics at Bristol Myers Squibb
 
 Hello and thanks for visiting! I'm Ben Decato, a Senior
 Scientist in the Translational Bioinformatics department at
-[Bristol Myers Squibb](www.bms.com), focusing on clinical biomarker discovery
+[Bristol Myers Squibb](https://www.bms.com), focusing on clinical biomarker discovery
 and development in non-oncology diseases including heart failure with preserved
 ejection fraction, idiopathic pulmonary fibrosis, and non-alcoholic steatohepatitis.
 
@@ -20,7 +20,7 @@ Bioinformatics with my undergraduate advisor, [Dr. Phil Hatcher](https://www.cs.
 
 My full CV is available [here](Papers/CV_BDecato_010121.pdf), although there is no guarantee
 it is entirely up-to-date. A complete suite of contact options are shown below,
-and I am always open to new collaborations, github pull requests, and
+and I am always open to new collaborations, Github pull requests, and
 opportunities. Hope to hear from you soon!
 
 Opinions expressed on this site are personal and are not meant to represent the
