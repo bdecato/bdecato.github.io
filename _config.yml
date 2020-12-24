@@ -7,7 +7,7 @@ title: Home
 description: A virtual proof that I'm awesome
 
 # Your name to show in the footer
-author: Ben Decato
+author: (C) Ben Decato
 
 # --- List of links in the navigation bar --- #
 
@@ -114,7 +114,7 @@ footer-link-col: "#3f72af"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "UA-47810330-1"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
