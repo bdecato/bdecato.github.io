@@ -31,7 +31,8 @@ getting involved in conservation as well
 |:--:|
 |Scrambling around on rocks in Joshua Tree National Park|
 
-I'm currently reading (and very much enjoying) "The Emperor of All Maladies: A Biography of Cancer" by Siddhartha Mukherjee.
+I'm currently reading (and very much enjoying) "The Emperor of All Maladies: A
+Biography of Cancer" by Siddhartha Mukherjee.
 
 I have a ukulele and guitar close to my desk at home, and learning something new
 on those can be fun and satisfying when the mood strikes, though I don't claim
