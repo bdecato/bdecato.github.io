@@ -25,7 +25,8 @@ have to do for now!
 
 I'm a big fan of the outdoors, and enjoy camping, backpacking, rock climbing,
 snowboarding, and other things along those lines. I am looking forward to
-getting involved in conservation as well
+getting involved in conservation in 2021 as well, to ensure these hobbies
+remain accessible for future generations.
 
 | ![me_jtree.png](../assets/img/me_jtree.png) |
 |:--:|
