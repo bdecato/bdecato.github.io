@@ -16,3 +16,8 @@ so the strategy I will employ when I want to share RShiny apps is to write a
 plain Markdown blog post and simply link to it, as below:
 
 [Toy Shiny Example](https://bdecato.shinyapps.io/12-25-2020_shiny-example/)
+
+{% comment %}
+Testing MathJax:
+$$\frac{x^2}{x_1}$$
+{% endcomment %}
