@@ -1,12 +1,20 @@
 ---
 layout: page
 title: Ben Decato
-subtitle: Senior Scientist, Translational Bioinformatics at Bristol Myers Squibb
+subtitle: Assistant Research Professor, Bioinformatics at City of Hope
 ---
 
-Hello and thanks for visiting! I'm Ben Decato, a Senior
+Hello and thanks for visiting! I'm Ben Decato, an assistant research professor
+of bioinformatics working in the lab of [Dr. Andrea Bild](https://bildlab.org)
+at [City of Hope National Medical Center](https://www.cityofhope.org)
+in the Department of Medical Oncology and Therapeutics Research. My research
+in the Bild lab focuses on understanding the evolutionary trajectories of
+cancer clonal populations over time, and devising treatment strategies
+to combat treatment-resistant phenotypes.
+
+Prior to City of Hope, I worked as a Research Investigator and then Senior
 Scientist in the Translational Bioinformatics department at
-[Bristol Myers Squibb](https://www.bms.com), focusing on clinical biomarker discovery
+[Bristol Myers Squibb](www.bms.com), focusing on clinical biomarker discovery
 and development in non-oncology diseases including heart failure with preserved
 ejection fraction, idiopathic pulmonary fibrosis, and non-alcoholic steatohepatitis.
 
@@ -20,7 +28,7 @@ Bioinformatics with my undergraduate advisor, [Dr. Phil Hatcher](https://www.cs.
 
 My full CV is available [here](Papers/CV_BDecato_010121.pdf), although there is no guarantee
 it is entirely up-to-date. A complete suite of contact options are shown below,
-and I am always open to new collaborations, Github pull requests, and
+and I am always open to new collaborations, github pull requests, and
 opportunities. Hope to hear from you soon!
 
 Opinions expressed on this site are personal and are not meant to represent the
