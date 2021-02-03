@@ -26,7 +26,7 @@ USC in 2012, I completed a B.S. in Computer Science from the
 [University of New Hampshire](https://www.cs.unh.edu), and did research in
 Bioinformatics with my undergraduate advisor, [Dr. Phil Hatcher](https://www.cs.unh.edu/~pjh).
 
-My full CV is available [here](Papers/CV_BDecato_010121.pdf), although there is no guarantee
+My full CV is available [here](Papers/CV_BDecato_020121.pdf), although there is no guarantee
 it is entirely up-to-date. A complete suite of contact options are shown below,
 and I am always open to new collaborations, github pull requests, and
 opportunities. Hope to hear from you soon!
