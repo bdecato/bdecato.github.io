@@ -8,9 +8,9 @@ regulation of genomes contributes to cellular differentiation, speciation, and
 disease. My exploration of the [epi]genome has often involved implementation of
 custom algorithms and pipelines for analysis of next-generation sequencing
 technologies, and occasionally the development of new statistical or
-computational theory. Since joining BMS, I have focused primarily on applying
-my background to understanding the intricacies of and evaluating potential
-therapies for a broad range of diseases.
+computational theory. Since graduating from USC, I have focused primarily on
+applying my background to understanding the intricacies of and evaluating
+potential therapies for a broad range of diseases.
 
 | ![methpipe-fig1.png](../assets/img/methpipe-fig1.png) |
 |:--:|
