@@ -6,6 +6,7 @@ title: Publications
 Decato BE\*, Ammar R\*, Reinke-Breen L\*, Thompson JR, Azzara A. (2021)
 "Transcriptome analysis reveals key genes modulated by ALK5 inhibition in a bleomycin model of systemic sclerosis"
 *Rheumatology*, keab580. [[PDF](../Papers/Decato_Rheumatology_2021.pdf)][[Publisher Site](https://academic.oup.com/rheumatology/advance-article/doi/10.1093/rheumatology/keab580/6325100)]
+
 (* denotes co-first author)
 
 Luo Y, Wadhawan S, Greenfield A, **Decato BE**, Oseini A, Collen R, Shevell D, Thompson J, Jarai G, Charles ED, Sanyal AJ (2021)
