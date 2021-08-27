@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Ben Decato
-subtitle: Assistant Research Professor, Bioinformatics at City of Hope
+subtitle: Bioinformatics and Computational Biology
 ---
 
-Hello and thanks for visiting! I'm Ben Decato, an assistant research professor
-of bioinformatics working in the lab of [Dr. Andrea Bild](https://bildlab.org)
-at [City of Hope National Medical Center](https://www.cityofhope.org)
+Hello and thanks for visiting! I'm Ben Decato, a bioinformatician currently
+working as an assistant research professor at
+ [City of Hope National Medical Center](https://www.cityofhope.org)
 in the Department of Medical Oncology and Therapeutics Research. My research
-in the Bild lab focuses on understanding the evolutionary trajectories of
+focuses on understanding the evolutionary trajectories of
 cancer clonal populations over time, and devising treatment strategies
 to combat treatment-resistant phenotypes.
 
@@ -26,7 +26,7 @@ USC in 2012, I completed a B.S. in Computer Science from the
 [University of New Hampshire](https://www.cs.unh.edu), and did research in
 Bioinformatics with my undergraduate advisor, [Dr. Phil Hatcher](https://www.cs.unh.edu/~pjh).
 
-My full CV is available [here](Papers/CV_BDecato_020121.pdf), although there is no guarantee
+My full CV is available [here](Papers/CV_BDecato_082621.pdf), although there is no guarantee
 it is entirely up-to-date. A complete suite of contact options are shown below,
 and I am always open to new collaborations, github pull requests, and
 opportunities. Hope to hear from you soon!
