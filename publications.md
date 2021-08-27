@@ -3,17 +3,22 @@ layout: page
 title: Publications
 ---
 
+Decato BE\*, Ammar R\*, Reinke-Breen L\*, Thompson JR, Azzara A. (2021)
+"Transcriptome analysis reveals key genes modulated by ALK5 inhibition in a bleomycin model of systemic sclerosis"
+*Rheumatology*, keab580. [[PDF](../Papers/Decato_Rheumatology_2021.pdf)][[Publisher Site](https://academic.oup.com/rheumatology/advance-article/doi/10.1093/rheumatology/keab580/6325100)]
+(* denotes co-first author)
+
 Luo Y, Wadhawan S, Greenfield A, **Decato BE**, Oseini A, Collen R, Shevell D, Thompson J, Jarai G, Charles ED, Sanyal AJ (2021)
 "SOMAscan Proteomics Identifies Serum Biomarkers Associated With Liver Fibrosis in Patients With NASH"
- *Hepatology Communications* in press [[PDF](../Papers/Luo_HC_2021.pdf)][[Publisher Site](https://aasldpubs.onlinelibrary.wiley.com/doi/10.1002/hep4.1670)]
+ *Hepatology Communications* Hep4.1670 [[PDF](../Papers/Luo_HC_2021.pdf)][[Publisher Site](https://aasldpubs.onlinelibrary.wiley.com/doi/10.1002/hep4.1670)]
 
 **Decato BE**, Qu J, Ji XJ, Wagenblast E, Knott SRV, Hannon GJ, and Smith AD (2020)
 "Characterization of universal features of partially methylated domains across tissues and species."
-*Epigenetics & chromatin* 13.1 (2020): 1-14 [[PDF](../Papers/Decato_BMC_2020.pdf)][[Publisher Site](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-020-00363-7)]
+*Epigenetics & chromatin* 13.1: 1-14 [[PDF](../Papers/Decato_BMC_2020.pdf)][[Publisher Site](https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-020-00363-7)]
 
 Barnett KR, **Decato BE**, Scott TJ, Hansen TJ, Chen B, Attalla J, Smith AD, and Hodges E (2020)
 "ATAC-Me Captures Prolonged DNA Methylation of Dynamic Chromatin Accessibility Loci during Cell Fate Transitions."
-*Molecular Cell* 77.6 (2020): 1350-1364 [[PDF](../Papers/Barnett_MolCell_2020.pdf)][[Publisher Site](https://www.cell.com/molecular-cell/fulltext/S1097-2765(20)30004-6)]
+*Molecular Cell* 77.6: 1350-1364 [[PDF](../Papers/Barnett_MolCell_2020.pdf)][[Publisher Site](https://www.cell.com/molecular-cell/fulltext/S1097-2765(20)30004-6)]
 
 **Decato BE**, Lopez-Tello J, Sferruzzi-Perri AN, Smith AD, Dean MD (2017) "DNA methylation divergence and tissue specialization in the developing mouse placenta." *Molecular Biology & Evolution* 34(7):1702-1712 [[PDF](../Papers/Decato_MBE_2017.pdf)] [[Publisher's site](https://academic.oup.com/mbe/article/34/7/1702/3101303)]
 
