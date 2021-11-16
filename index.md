@@ -5,14 +5,12 @@ subtitle: Bioinformatics and Computational Biology
 ---
 
 Hello and thanks for visiting! I'm Ben Decato, a bioinformatician currently
-working as an assistant research professor at
- [City of Hope National Medical Center](https://www.cityofhope.org)
-in the Department of Medical Oncology and Therapeutics Research. My research
-focuses on understanding the evolutionary trajectories of
-cancer clonal populations over time, and devising treatment strategies
-to combat treatment-resistant phenotypes.
+working as a Senior Scientist at Amgen in the Clinical Biomarkers and Diagnostics
+department. My research focuses on identifying and developing biomarkers that
+support the development of Amgen's pipeline assets, mostly in phase 1 and 2
+oncology indications.
 
-Prior to City of Hope, I worked as a Research Investigator and then Senior
+Prior to Amgen, I worked as a Research Investigator and then Senior
 Scientist in the Translational Bioinformatics department at
 [Bristol Myers Squibb](www.bms.com), focusing on clinical biomarker discovery
 and development in non-oncology diseases including heart failure with preserved
